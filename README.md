@@ -5,7 +5,7 @@
 
 
 <br/>
-<img src="./demo.jpeg" alt="index1"/>
+<img src="./image.portfolio.jpeg" alt="imag"/>
 
 This project was built using these technologies.
 
