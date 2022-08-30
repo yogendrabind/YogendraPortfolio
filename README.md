@@ -5,7 +5,7 @@
 
 
 <br/>
-<img src="./portgolioImage.png" alt="imag"/>
+<img src="./imagehomepage.jpeg" alt="imag"/>
 
 This project was built using these technologies.
 
