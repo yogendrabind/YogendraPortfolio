@@ -21,4 +21,4 @@ This project was built using these technologies.
 
 **Styled with React-Bootstrap and Css with easy to customize colors**
 
-**Fully Responsive*
+**Fully Responsive**
