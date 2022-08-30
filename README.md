@@ -5,6 +5,7 @@
 
 
 <br/>
+<img src="./demo.jpeg" alt="index1"/>
 
 This project was built using these technologies.
 
